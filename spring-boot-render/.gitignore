@@ -30,3 +30,18 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.gradle
+build
+out
+mqjms*
+derby.log
+/**/.terraform
+/**/terraform.*
+local.properties
+**/src/main/generated/**
+application*.yml
+/infraestructura/4-devs/localstack/*
+/**/bin/
+/**/.sts4-cache
+
